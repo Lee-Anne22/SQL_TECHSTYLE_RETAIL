@@ -37,6 +37,9 @@ marketing strategy meeting.
   place and the low sales of November may be caused by the increase in
   sales on Black Friday in-store.
 
+<img src="images/monthlky%20revenue.png" data-fig-align="left"
+width="425" />
+
 - **The top-grossing category was kitchen products.**
 
   The high revenue could be due to the high price of some kitchen
@@ -58,7 +61,8 @@ marketing strategy meeting.
 
 ### Project Layout
 
-<img src="images/File%20breakdown.png" data-fig-align="center" />
+<img src="images/File%20breakdown.png" data-fig-align="left"
+width="641" />
 
 ### Project Conclusion
 

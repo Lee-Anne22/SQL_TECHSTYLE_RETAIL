@@ -26,6 +26,8 @@ The sales records for the period from July 2024 to July 2025 were analysed, toge
 
     The high sales in October and December could be due to holidays taking place and the low sales of November may be caused by the increase in sales on Black Friday in-store.
 
+![](images/monthlky revenue.png){fig-align="left" width="425"}
+
 -   **The top-grossing category was kitchen products.**
 
     The high revenue could be due to the high price of some kitchen products.
@@ -44,7 +46,7 @@ The sales records for the period from July 2024 to July 2025 were analysed, toge
 
 ### Project Layout
 
-![](images/File%20breakdown.png){fig-align="center"}
+![](images/File%20breakdown.png){fig-align="left" width="641"}
 
 ### Project Conclusion
 
