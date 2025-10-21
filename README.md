@@ -1,7 +1,5 @@
-# TechStyle Retail Group Sales for 2024
+# TechStyle Retail Group Sales for 2024-2025
 
-
-# TechStyle Retail Group Sales for 2024
 
 ### About
 

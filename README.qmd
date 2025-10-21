@@ -1,9 +1,7 @@
 ---
-title: "TechStyle Retail Group Sales for 2024"
+title: "TechStyle Retail Group Sales for 2024-2025"
 format: gfm
 ---
-
-# TechStyle Retail Group Sales for 2024
 
 ### About
 
