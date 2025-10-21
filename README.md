@@ -47,7 +47,7 @@ width="425" />
 
 - **Only 36.9% are repeat customers.**
 
-  Could be due to a decrease in customer service or the absence of a a
+  It may be due to a decrease in customer service or the absence of a a
   rewards/loyalty program.
 
 ##### Business Suggestions:

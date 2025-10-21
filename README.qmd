@@ -26,7 +26,7 @@ The sales records for the period from July 2024 to July 2025 were analysed, toge
 
     The high sales in October and December could be due to holidays taking place and the low sales of November may be caused by the increase in sales on Black Friday in-store.
 
-![](images/monthlky revenue.png){fig-align="left" width="425"}
+![](images/monthlky%20revenue.png){fig-align="left" width="425"}
 
 -   **The top-grossing category was kitchen products.**
 
@@ -34,7 +34,7 @@ The sales records for the period from July 2024 to July 2025 were analysed, toge
 
 -   **Only 36.9% are repeat customers.**
 
-    Could be due to a decrease in customer service or the absence of a a rewards/loyalty program.
+    It ma be due to a decrease in customer service or the absence of a a rewards/loyalty program.
 
 ##### Business Suggestions:
 
