@@ -1,13 +1,75 @@
-# SQL_TECHSTYLE_RETAIL
-For this project mock data was created using Mockaroo for a company called TechStyle Retail. Te project used SQL queries through SQL Server Management Studio 21 to answer the following questions:
+# TechStyle Retail Group Sales for 2024
 
-•	What is the monthly revenue for the past year?
-•	Top revenue grossing categories?
-•	Top selling products per category?
-•	The top ten customers by lifetime value?
-•	Products with high stock but are not making any sales?
-•	The percentage of customers ordering more than once?
-•	Any order values which do not match the product price per quantity?
-•	Discrepancies in customer information?
 
-These questions with some recommendations were provided in the summary.pdf.
+# TechStyle Retail Group Sales for 2024
+
+### About
+
+TechStyle Retail Group is an online retailer that entered the market in
+July 2023. The annual sales data for 2024-2025 were collected and
+analysed in this project to be used in the sales strategy meeting for
+the 2026 calendar year. Disclaimer: This project is a practice project,
+and the business data used was created using Mockaroo and insights were
+obtained using Microsoft SQL Server.
+
+### Summary
+
+##### Background:
+
+TechStyle Retail Group is an online retailer providing products to the
+public in the following main categories:
+
+|                  |        |         |          |
+|------------------|--------|---------|----------|
+| Kitchen Products | Food   | Garden  | Home     |
+| Beauty           | Crafts | Outdoor | Clothing |
+
+The sales records for the period from July 2024 to July 2025 were
+analysed, together with stock intake, to gather insights on total
+revenue, most profitable months, and top grossing products. The insights
+were gathered using Microsoft SQL Server, with the primary goal of
+identifying key trends to inform business objectives for the 2026
+marketing strategy meeting.
+
+##### Insights:
+
+- **October and December were some of the best-performing months.**
+
+  The high sales in October and December could be due to holidays taking
+  place and the low sales of November may be caused by the increase in
+  sales on Black Friday in-store.
+
+- **The top-grossing category was kitchen products.**
+
+  The high revenue could be due to the high price of some kitchen
+  products.
+
+- **Only 36.9% are repeat customers.**
+
+  Could be due to a decrease in customer service or the absence of a a
+  rewards/loyalty program.
+
+##### Business Suggestions:
+
+- **Research Lowest Product Reviews**
+- **Compare Price Point with Other Retailers and Research Lower Cost
+  Manufacturers or Shipping**
+- **Ask for Customer Feedback**
+- **Expand the Top Categories Variety in Products**
+- **Strategise the Implementation of a Loyalty Program**
+
+### Project Layout
+
+<img src="images/File%20breakdown.png" data-fig-align="center" />
+
+### Project Conclusion
+
+TechStyle Retail Group may increase sales in the 2026 business year by
+implementing the business suggestions obtained from the previous sales
+data insights. The recommendation of a rewards or loyalty program may
+increase repeating customers which is currently at 36.9% and resources
+should be focused on obtaining customer feedback to keep current loyal
+customers. More data surrounding customer experience may be required to
+gain further insights into customer behaviour and marketing data should
+also be obtained to gain these insights for further business
+suggestions.
